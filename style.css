@@ -1,0 +1,204 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.bg{
+     background-image: url(bg.jpeg); 
+    background-repeat: no-repeat;
+    width: 1300px;
+   height: 600px;
+    left: 0;
+    right:0;
+    margin: auto;
+}
+
+
+.main{
+    width: 1300px;
+    height:600px;
+   
+}
+.header{
+    width: 1300px;
+    height:100px;
+    border:1px solid gray;
+ 
+}
+.icon{
+    width: 200px;
+    height:50px; 
+    float: left;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+.menu-1{
+    width: 250px;
+    height:100px;
+    float: right;
+    margin-right: 15px;
+    padding-top: 20px
+}
+.menu-2{
+    width: 250px;
+    height:100px;
+    float: right;
+    margin-right: 15px;
+     padding-top: 20px
+}
+
+.menu-3 {
+    width: 150px;
+    height:100px;
+    float: right;
+    margin-right: 15px;
+    padding-top: 20px
+}
+.header2{
+    width: 1300px;
+    height:100px;
+    margin-top: 20px;
+}
+.logo img{
+    width: 100px;
+    height:80px; 
+    float: left;
+    margin-left: 70px;
+   
+    
+}
+.menu{
+    width: 600px;
+    height:100px;
+    float: right;
+    margin-right: 15px;
+    margin-right: 20px;
+}
+.text{
+    width: 600px;
+    height:300px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    margin-top: 30px;
+    text-align: center;
+    padding-top: 100px;
+}
+.text p{
+    color:white
+}
+h1{
+    color:white
+}
+.fab{
+    color: white;
+    font-size: 20px;
+    padding: 5px;
+}
+.fas{
+    color: white;
+    font-size: 40px;
+    padding: 5px;
+}
+.far{
+    color: white;
+    font-size: 40px;
+    padding: 5px;
+
+}
+.nav-link{
+    color:white;
+    font-size: 18px;
+    margin-right: 20px
+}
+.second-part{
+    width: 1200px;
+    height:550px;
+    left: 0;
+    right:0;
+    margin: auto;
+}
+.card-logo{
+    width: 60px;
+    height: 30px;
+    background: red;
+    margin-right: 20px;
+    margin-left: 280px;
+    margin-top: 10px;
+    border:1px solid gray;
+    border-radius:2px 
+}
+.img-three img{
+    width: 300px;
+    height: 200px;
+}
+.box{
+    height: 60px;
+    background-color: orange;
+    margin-right: 0px;
+    float: right;
+    font-size: 10px
+    
+}
+.add-bar{
+     width: 1120px;
+    height:100px;
+    border:2px solid blue; 
+    left: 0;
+    right:0;
+    margin: auto;
+    margin-top: 50px;
+}
+.add-logo {
+     width: 300px;
+    height:100px;
+    border:2px solid red; 
+    float: left
+   
+}
+.add-logo img{
+     width:250px;
+    height:100px;
+    border:2px solid red; 
+    float: left;
+   
+}
+.page-no{
+    width: 1200px;
+    height:100px; 
+    left: 0;
+    right:0;
+    margin: auto;
+  
+}
+.Footer{
+    width: 1200px;
+    height:650px;
+    background-color: black; 
+    left: 0;
+    right:0;
+    margin: auto;
+    color: red;
+    margin-top: 50px;
+}
+.border{
+    border:1px solid gray;
+    color: red;
+    margin-top: 40px;
+    height: 73px;
+}
+.left{
+    float: left;
+    padding: 20px;
+    color: white;
+}
+.right{
+    float: right;
+    margin-right: 40px;
+}
+.rent{
+    font-size: 50px;
+    color:red;
+}
+.nnnn{
+    color: red;
+}
